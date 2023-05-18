@@ -6,6 +6,8 @@ const { title } = require('process');
 const gernerateREADME = ({ github, email, title, description, installation, usage, license, contributing, tests }) =>
 `# ${title}
 
+[![License](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})
+
 ## Description
 ${description}
 
