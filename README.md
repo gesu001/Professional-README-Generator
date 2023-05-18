@@ -1,6 +1,7 @@
 # Professional README Generator
 
-![Professional README Generator]()
+[Professional README Generator .webm](https://github.com/gesu001/Professional-README-Generator/assets/125954857/5ebe6fea-7166-4a94-81f5-72a8663273ac)
+
 
 ## Description
 
@@ -20,7 +21,7 @@ Visual Studio Code
 
 ## Installation 
 
-Click the line to install [Node.js](https://nodejs.org/en). To install the project, use the command line: 
+Click the link to install [Node.js](https://nodejs.org/en). To install dependencies, use the command line: 
 
 ```
 npm i
@@ -39,7 +40,7 @@ Run index.js by using command line:
 node index.js
 ```
 
-Follow the prompt question and type your answers, a README file will be generator.
+Follow the prompt question and type your answers, a README file will be generator. Or follow the [Demo Video](https://drive.google.com/file/d/1EBEl6IgO-jtyIKWNJLDP7kBWWx_w58Sq/view?usp=sharing) to create the README file.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
