@@ -1,5 +1,7 @@
 # Professional README Generator
 
+[Professional_README_Generator_Demo_Video.webm](https://github.com/gesu001/Professional-README-Generator/assets/125954857/fb9333b8-bbc4-49a6-a349-7de38c9a59fc)
+
 ## Description
 
 This Professional README Generator can help developer generating a README file easily.
@@ -37,7 +39,7 @@ Run index.js by using command line:
 node index.js
 ```
 
-Follow the prompt question and type your answers, a README file will be generator. Or follow the [Demo Video](https://drive.google.com/file/d/1EBEl6IgO-jtyIKWNJLDP7kBWWx_w58Sq/view?usp=sharing) to create the README file.
+Follow the prompt question and type your answers, a README file will be generator. Or click the link [Demo Video](https://drive.google.com/file/d/1EBEl6IgO-jtyIKWNJLDP7kBWWx_w58Sq/view?usp=sharing) to create the README file.
 
 
 ## Contributing
