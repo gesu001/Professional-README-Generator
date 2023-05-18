@@ -1,7 +1,5 @@
 # Professional README Generator
 
-![Professional README Generator]()
-
 ## Description
 
 This Professional README Generator can help developer generating a README file easily.
